@@ -1,0 +1,45 @@
+.list_categories {
+    list-style-type: disc;
+    margin-left: 3.5rem;
+}
+
+.title {
+    margin: 3.2rem 0 1.6rem;
+    line-height: 1.2;
+    font-weight: 700;
+    letter-spacing: 0;
+}
+
+.categories {
+    margin-top: 2rem;
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.alertBanner {
+    background-color: #f9f9f9;
+    border-left: 4px solid #ffcc00;
+    padding: 1rem;
+    margin: 1rem 0;
+}
+
+.text_without_underline {
+    list-style-type: none;
+    padding: 0;
+}
+
+.list_content {
+    list-style-type: disc;
+    margin-left: 2.5rem;
+    line-height: 2rem;
+    font-size: 1.2rem;
+}
+
+.link_to {
+    color: #0073e6;
+    text-decoration: none;
+}
+
+.link_to:hover {
+    text-decoration: underline;
+}
