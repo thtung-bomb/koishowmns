@@ -1,17 +1,22 @@
-# Fall2024SWD392
+# 🐟 Koi Fish Competition Website
 
-## **All things need to do to work with this project**
-```sh
-## **Pull Code**
-git clone https://github.com/Duc-dev-starter/-Fall2024SWD392_SE1704_Group2-FE
-After pull code, run npm i in cmd
+## 📖 Overview
+This project is a **web application** designed to manage and organize a Koi fish competition.  
+It covers the entire competition process — from the **preparation stage** (fish registration) to the **competition stage** (judging & scoring).  
 
-## **Deploy**
-```sh
-# Run git commit first
-# Then
-git push
+The application was built by a team with the goal of delivering a smooth and efficient experience for organizers, participants, and judges.
 
-# Test tag
-./tag-test.ps1
-git push --tags
+---
+
+## ✨ Features
+- **Koi Fish Registration**: Participants can register their koi fish with details and images.  
+- **Competition Management**: Admins can create competitions, manage schedules, and track participants.  
+- **Scoring System**: Judges can score koi fish based on criteria (size, color, pattern, health, etc.).  
+- **Results & Ranking**: Automatic calculation of scores with ranking display.  
+- **Responsive Design**: Fully responsive UI to work across desktop, tablet, and mobile.  
+
+---
+
+## 🛠️ Tech Stack
+- **Frontend**: React, Tailwind CSS, Shadcn UI / Ant Design  
+- **Version Control**: Git, GitHub  
